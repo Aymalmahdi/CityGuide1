@@ -1,51 +1,51 @@
 <resources>
-    <string name="app_name">SCOUT</string>
+    <string name="app_name">Alahsa Tour</string>
     <string name="app_slogan">Helps You Get A Way</string>
     <string name="app_powered_by1">Powered by</string>
-    <string name="app_powered_by2">Developer Depository</string>
+    <string name="app_powered_by2">Silah Team</string>
 
     <!-- Strings for OnBoardingScreen -->
 
     <!-- Titles -->
-    <string name="first_slide_title">Search Your Location</string>
-    <string name="second_slide_title" translatable="false">Make A Call</string>
-    <string name="third_slide_title" translatable="false">Add Missing Place</string>
-    <string name="fourth_slide_title" translatable="false">Sit Back &amp; Enjoy</string>
+    <string name="second_slide_title">Dear visitor, welcome to Al-Ahsa Oasis</string>
+    <string name="third_slide_title">And there is more !!</string>
+    <string name="fourth_slide_title">Let\'s have enjoy in Al-Ahsa</string>
+
 
     <!-- Descriptions -->
-    <string name="first_slide_desc" translatable="false">You can search any place nearby or within the specified city. SCOUT will display specific or all related facilities to match your search.</string>
-    <string name="second_slide_desc" translatable="false">SCOUT provides contact numbers of almost all the departments and facilities registered on it. You can make a booking through that as well.</string>
-    <string name="third_slide_desc" translatable="false">If you have a facility and you want to be part of our growing industry, then add your place on SCOUT following simple steps.</string>
-    <string name="fourth_slide_desc" translatable="false">SCOUT will handle everything for you. Grow your business with us without worrying about anything.</string>
+
+    <string name="first_slide_desc">One of the greatest cities in the Kingdom of Saudi Arabia and its famous green oases</string>
+    <string name="second_slide_desc">In this application, visitors will discover the most important areas and monuments in the Al-Ahsa Oasis</string>
+    <string name="third_slide_desc">The application includes tourist hotels and the most important educational schools and universities</string>
 
     <!-- Buttons -->
-    <string name="skip_btn" translatable="false">SKIP</string>
-    <string name="next_btn" translatable="false">NEXT</string>
-    <string name="lets_get_started" translatable="false">LET\'S GET STARTED</string>
+    <string name="skip_btn">SKIP</string>
+    <string name="next_btn">NEXT</string>
+    <string name="lets_get_started">LET\'S GET STARTED</string>
 
 
     <!-- Categories -->
-    <string name="hotels" translatable="false">Hotels</string>
-    <string name="restaurants" translatable="false">Restaurants</string>
-    <string name="shops" translatable="false">Shops</string>
-    <string name="banks" translatable="false">Banks</string>
-    <string name="education" translatable="false">Education</string>
-    <string name="hospitals" translatable="false">Hospitals</string>
-    <string name="airports" translatable="false">Airports</string>
-    <string name="sports" translatable="false">Sports</string>
-    <string name="travel" translatable="false">Travel</string>
-    <string name="carRent" translatable="false">Car Rent</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="education">Education</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="airports">Airports</string>
+    <string name="sports">Sports</string>
+    <string name="travel">Travel</string>
+    <string name="carRent">Car Rent</string>
 
 
     <!-- Strings for Dashboard -->
 
     <!-- Titles and Descriptions -->
-    <string name="featured_locations" translatable="false">All\nFeatured\nLocations</string>
-    <string name="featured_locations_description" translatable="false">All the locations that are featured and having the top demand in town at the moment!</string>
-    <string name="most_viewed_locations" translatable="false">Most Viewed</string>
-    <string name="categories" translatable="false">Categories</string>
-    <string name="view_all" translatable="false">View All</string>
-    <string name="search_text" translatable="false">Search a location</string>
+    <string name="featured_locations">All\nPopular\nLocations</string>
+    <string name="featured_locations_description">Most of the popular locations that have the top demand in town at the moment!</string>
+    <string name="most_viewed_locations">Historical Palaces</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search a location</string>
 
     <!-- Featured Locations Card Defaults -->
     <string name="featured_item_placeholder_title" translatable="false">ScrapYard</string>
@@ -56,36 +56,36 @@
     <string name="most_viewed_item_placeholder_desc" translatable="false">Chapter7 is the best rated club in the location at the moment.</string>
 
     <!-- Strings for Navigation Menu -->
-    <string name="navHome" translatable="false">Home</string>
-    <string name="navSearch" translatable="false">Search</string>
-    <string name="navAllCategories" translatable="false">All Categories</string>
+    <string name="navHome">Home</string>
+    <string name="navSearch">Search</string>
+    <string name="navAllCategories">All Categories</string>
     <string name="navAddMissingPlaces" translatable="false">Add Missing Place</string>
-    <string name="navCurrency" translatable="false">Exchange Currency</string>
+    <string name="navCurrency">Exchange Currency</string>
     <string name="navProfileTitle" translatable="false">Profile</string>
     <string name="navLogin" translatable="false">Log In</string>
     <string name="navProfile" translatable="false">Profile</string>
     <string name="navLogOut" translatable="false">Log Out</string>
-    <string name="navCategoriesTitle" translatable="false">Categories</string>
-    <string name="navRestaurants" translatable="false">Restaurants</string>
-    <string name="navHotels" translatable="false">Hotels</string>
-    <string name="navEducation" translatable="false">Education</string>
-    <string name="navShops" translatable="false">Shops</string>
-    <string name="navCommunicationTitle" translatable="false">Communication</string>
-    <string name="navShare" translatable="false">Share</string>
-    <string name="navRateUs" translatable="false">Rate Us</string>
-    <string name="navContactUs" translatable="false">Contact Us</string>
-    <string name="navAboutUs" translatable="false">About Us</string>
-    <string name="navPrivacyPolicy" translatable="false">Privacy Policy</string>
+    <string name="navCategoriesTitle">Categories</string>
+    <string name="navRestaurants">Restaurants</string>
+    <string name="navHotels">Hotels</string>
+    <string name="navEducation">Education</string>
+    <string name="navShops">Shops</string>
+    <string name="navCommunicationTitle">Communication</string>
+    <string name="navShare">Share</string>
+    <string name="navRateUs">Rate Us</string>
+    <string name="navContactUs">Contact Us</string>
+    <string name="navAboutUs">About Us</string>
+    <string name="navPrivacyPolicy">Privacy Policy</string>
 
     <!-- Exit Dialog Strings -->
-    <string name="exitDialogTitle" translatable="false">Exit SCOUT?</string>
-    <string name="exitDialogMessage" translatable="false">Do you really want to exit?</string>
-    <string name="exitDialogConfirm" translatable="false">YES</string>
-    <string name="exitDialogCancel" translatable="false">NO</string>
+    <string name="exitDialogTitle">Exit Al-Ahsa Tour?</string>
+    <string name="exitDialogMessage">Do you really want to exit?</string>
+    <string name="exitDialogConfirm">YES</string>
+    <string name="exitDialogCancel">NO</string>
 
 
     <!-- All Categories Strings -->
-    <string name="allCategoriesTitle" translatable="false">All Categories</string>
+    <string name="allCategoriesTitle">All Categories</string>
 
 
     <!-- Retailer StartUp Screen Strings -->
@@ -97,13 +97,13 @@
 
 
     <!-- RetailerLogin Strings -->
-    <string name="retailerLoginTitle" translatable="false">LOGIN</string>
+    <string name="retailerLoginTitle" translatable="false">currency converter</string>
     <string name="retailerLoginMessage" translatable="false">Sign in to continue!</string>
     <string name="retailerLoginUsernameHint" translatable="false">Username</string>
     <string name="retailerLoginPasswordHint" translatable="false">Password</string>
     <string name="retailerLoginRememberMeCheckBox" translatable="false">Remember Me</string>
     <string name="retailerLoginForgotPassword" translatable="false">Forgot Password?</string>
-    <string name="retailerLoginBtn" translatable="false">LOGIN</string>
+    <string name="retailerLoginBtn">Convert</string>
     <string name="retailerLoginCreateAccountMsg" translatable="false">Don\'t have an account?</string>
     <string name="retailerLoginCreateAccountBtn" translatable="false">Create Account</string>
 
@@ -117,7 +117,7 @@
     <string name="retailerSignUpMobileHint" translatable="false">Mobile</string>
     <string name="retailerSignUpCreatePasswordHint" translatable="false">Create Password</string>
     <string name="retailerSignUpConfirmPasswordHint" translatable="false">Confirm Password</string>
-    <string name="retailerSignUpNextBtn" translatable="false">NEXT</string>
+    <string name="retailerSignUpNextBtn">NEXT</string>
     <string name="retailerSignUpLoginMsg" translatable="false">Already have an account?</string>
     <string name="retailerSignUpLoginBtn" translatable="false">Sign in</string>
     <string name="retailerSignUpChooseGenderTxt" translatable="false">Choose Gender</string>
@@ -138,7 +138,7 @@
     <string name="forgotPasswordTitle" translatable="false">FORGOT PASSWORD?</string>
     <string name="forgotPasswordMessage" translatable="false">Provide your account\'s Mobile below for\nwhich you want to reset your password</string>
     <string name="forgotPasswordMobileHint" translatable="false">Mobile</string>
-    <string name="forgotPasswordNextBtn" translatable="false">NEXT</string>
+    <string name="forgotPasswordNextBtn">NEXT</string>
 
 
     <!-- Retailer Make Selection Strings -->
@@ -164,4 +164,137 @@
     <string name="setPasswordSuccessLoginBtn" translatable="false">LOGIN</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="select_lang">select language</string>
+    <string name="king_faisal_university">King Faisal University</string>
+    <string name="imam_muhammad_bin_saud_islamic_university">Imam Muhammad Bin Saud Islamic University</string>
+    <string name="king_suad_university">King Saud University</string>
+    <string name="arab_open_university">Arab Open University</string>
+    <string name="national_industrial_training_institute">National Industrial Training Institute (NITI)</string>
+    <string name="technical_and_vocational_training_corporation">Technical and Vocational Training Corporation</string>
+    <string name="alkhaleej_training_and_education">Alkhaleej Training and Education</string>
+    <string name="wall_street_english">Wall Street English</string>
+    <string name="al_anjal_national_schools">Al-anjal National Schools</string>
+    <string name="future_vision_private_schools">Future Vision Private Schools</string>
+    <string name="horn">Horn</string>
+    <string name="restaurents">Restaurents</string>
+    <string name="tendrliune">Tendrliune</string>
+
+    <string name="khaibar">Khaibar</string>
+    <string name="topaz">Topaz</string>
+    <string name="bharat">Bharat</string>
+    <string name="hotel">Hotel</string>
+    <string name="triple_tree_hotel">Triple Tree hotel</string>
+    <string name="somewhere_hotel">SomeWhere hotel</string>
+    <string name="intercontinental_hotel">Intercontinental al ahssa hotel</string>
+    <string name="alahssa_grand">Al ahssa Grand</string>
+    <string name="coral_hotel">Coral hotel</string>
+    <string name="separ_hotel">Separ Furnished Hotel</string>
+    <string name="taleen_hotel">Taleen hotel</string>
+    <string name="garden_hotel">Garden Plaza hotel</string>
+    <string name="linh_hotel">Homes Linh hotel</string>
+    <string name="alkut_hotel">Al Kut hotel</string>
+    <string name="hasa_gril">Hasa Gril</string>
+    <string name="al_keet">AL-Keet</string>
+    <string name="casa_pasta">Casa Pasta</string>
+    <string name="lava">Lava</string>
+    <string name="dunkin">Dunkin Dounet</string>
+    <string name="al_qaysarya">AL QAYSARYA</string>
+    <string name="alqisryahdec">A historical market located in Al-Ahsa, eastern Saudi Arabia</string>
+    <string name="al_qaria">AL QARIA</string>
+    <string name="al_qariadec">The popular village markets is the largest commercial market in Al-Ahsa Governorate, containing 1,500 commercial units of various modern and old activities</string>
+    <string name="al_sweeq">AL SWEEQ</string>
+    <string name="al_sweeqdec">It is one of the most famous markets in the city of Hofuf, and is characterized by its excellent and close location in the Al-Rafa neighborhood</string>
+    <string name="alahsa_mall">AL AHSA MALL</string>
+    <string name="alahsa_malldec">It is one of the largest single-storey complexes, characterized by its family atmosphere, and contains many shops, restaurants and cafes .</string>
+    <string name="alfawares_mall">AL FAWARES MALL</string>
+    <string name="alfawares_malldec">One of the largest malls in Al-Ahsa with an area of ​​30 thousand square meters. It consists of two floors containing many shops and restaurants.</string>
+    <string name="farm_superstores">FARM SUPERSTORES</string>
+    <string name="farm_superstoresdes">Farm Superstores is one of the leading trading, retail and import companies.</string>
+    <string name="alothaim_mall">AL OTHAIM MALL</string>
+    <string name="alothaim_malldec">A place that understands your needs and deserves your journey, an ideal destination for shopping and entertainment.</string>
+    <string name="UqairBeach">Uqair Beach</string>
+    <string name="AlQarah">Al-Qarah Mountain</string>
+    <string name="AlAsfar">Al-Asfar Lake</string>
+    <string name="JawathaCity">Jawatha City</string>
+    <string name="AlArbaa">Al-Arbaa Mountain</string>
+    <string name="AlShu">Al-Shu\'ba Mountain</string>
+    <string name="KingAbdullahPark">King Abdullah Park</string>
+    <string name="ZooPark">Zoo Park</string>
+    <string name="aluqairdec">Uqair Beach is the best rated Beach in Al-Ahsa\'a at the moment.</string>
+    <string name="alqaradec">From the breathtaking summit of Al Qarah Mountain, Arabic translations of the surrounding region’s place names bring new meaning.</string>
+    <string name="alasfardec">Al-Asfar Lake is a lake located in Al-Omran east of Al-Ahsa in Saudi Arabia. It is considered the largest watershed in the Gulf region, and it is the only one in the Kingdom of its kind in which an integrated wildlife lives.</string>
+    <string name="jawadec">The city of Jawatha is a historic treasure of the Kingdom, because it was once a palace or fortress used by Abd al-Qays, Bahrain. It was mentioned in the Book of the Status of the Arabian Island, settled by nations for the rich eyes and fertility of its agricultural soil.</string>
+    <string name="alarbadec">Jabal Al-Arbaa is a wonderful rock formation located in south Al-Hofuf and is one of the well-known group of mountains in Al-Ahsa. It is named after its four conical shaped plateaus, two joined together and the other two separate from each other.</string>
+    <string name="alshudec">Al-Shu\'ba mountain located in east of Al-Shu\'ba village at Al-Ahsa and to the north of Al-Eskan next to the road leading from eastern villages to the northern villages and to Al-Dammam.</string>
+    <string name="kingabdudec">Located in the southern part of Al Hofuf, King Abdullah Environmental Park is one of the best amusement options in this region.</string>
+    <string name="zoodec">Al-Tharf Model Garden or Al-Ahsa Zoo is a park that includes many animals located in Al-Ahsa Governorate in the Eastern Province of Saudi Arabia. The park is also one of Al-Ahsa’s tourist attractions.</string>
+    <string name="HouseAllegiance">House of Allegiance</string>
+    <string name="IbrahimPalace">Ibrahim Palace</string>
+    <string name="SahoodFort">"Sahood Fort "</string>
+    <string name="OldAlUqayrSeaport">Old AlUqayrSeaport</string>
+    <string name="PrincesSchool">Princes School</string>
+    <string name="MuhairisPalace">Muhairis Palace</string>
+    <string name="KhuzamPalace">"Khuzam Palace "</string>
+    <string name="languages">languages</string>
+    <string name="lang"> اللغة العربية</string>
+    <string name="housedec">The House of Allegiance or House of Allegiance is a historical house located in the Al Kut neighborhood of Al Hofuf Al Ahsa’iya city, Kingdom of Saudi Arabia. It is the house of Abdul Latif bin Abdul Rahman Al-Mulla, the head of the Al-Mulla family, and the house of the one who witnessed the people of Al-Ahsa pledge allegiance to King Abdul Aziz and their accession to the Saudi state in 1913.</string>
+    <string name="ibrahimdec">The Ibrahim Palace was built during the time of the first Saudi state and is considered to be an architectural masterpiece.</string>
+    <string name="sahooddec">Sahood Fort is situated outside the western walls of Al Mubarraz, Saudi Arabia. The fort is used as barracks for the Saudi Arabian Armed Forces.</string>
+    <string name="oladec">Uqair is the site of numerous historic meetings between the founding king and foreign diplomats and the place in which he conducted negotiations with international political forces in the region.</string>
+    <string name="princedec">The Princes School, the House of Culture, or the First Hofuf School is one of the oldest public schools in the Kingdom of Saudi Arabia,Its construction began in 1937 and was officially opened in February 1941.</string>
+    <string name="Muhdec">Muhairis Palace is a palace built by Imam Saud bin Abdul Aziz on the top of a hill in 1208 AH for military purposes.</string>
+    <string name="khuzdec">Khuzam Palace is located in the east of Al-Raqeqa neighborhood (currently Al-Mazrou’iya) located west of the city of Hofuf. It is the seat of the Bedouin residents who go to Al-Ahsa in the summer seasons for two months to exchange goods available in Al-Ahsa such as dates, sugar, some textiles, guns, ammunition and others for the goods they brought from the desert.</string>
+    <string name="first_slide_title">The Beautiful City of Al-Ahsa</string>
+    <string name="fourth_slide_desc">"Here, you will definitely see and explore unique tourism "</string>
+    <string name="curnamount">ENTER AMOUNT</string>
+    <string name="fromc">From Currency:</string>
+    <string name="result1">Result</string>
+    <string name="toc">To Currency:</string>
+    <string name="alahsaWeather">Al-Ahsa\'a</string>
+    <string name="WeatherS">Weather Status</string>
+    <string name="loding">LOADING ..</string>
+    <string name="m">MAX</string>
+    <string name="n">MIN</string>
+    <string name="error">Please Enter the number here</string>
+    <string name="education1_desc">King Faisal University was established on 7/28/1395 AH (1975 AD), University colleges: College of Medicine, College of Business Administration, College of Computer Science and Information Technology, College of Engineering, College of Arts, College of Law and College of Clinical Pharmacy, and others.</string>
+    <string name="education2_desc">The College of Sharia and Islamic Studies in Al-Ahsa is one of the branches of Imam Muhammad bin Saud Islamic University. The College of Sharia in Al-Ahsa was established in the year 1400 AH.</string>
+    <string name="education3_desc">It is a university specialized in health sciences and has the accreditation of the Ministry of Education in the Kingdom of Saudi Arabia for its various programs for the undergraduate and postgraduate levels.</string>
+    <string name="education4_desc">It is a non-profit, regional Arab university. Its idea emerged from its founder, Prince Talal bin Abdulaziz, when he announced in 1996 his initiative to establish an Arab Open University as a non-traditional academic entity.</string>
+    <string name="education5_desc">It is a state of the art institute that inspires passion for training excellence, world-class training programs. It is the result of a strategic partnership between Saudi Aramco (SA) and the Technical and Vocational Training Corporation (TVTC).</string>
+    <string name="education6_desc">The college mainly focuses on technical and vocational training to prepare students for careers. It is governed by the Technical and Vocational Training Corporation, the government provider of training in the Kingdom of Saudi Arabia.</string>
+    <string name="education7_desc">The activity of the Gulf Training and Education Company is to provide training courses in the fields of English language, computer science, information technology and management sciences.</string>
+    <string name="education8_desc">Wall Street Style is a mix of language teaching methods, offering interactive lessons with traditional classes, native language teachers, and fun activities.</string>
+    <string name="education9_desc">Schools started their activities in the academic year 1985/1986 with a small number of students that did not exceed 200 students, and by the end of the academic year the total number of students in schools reached 500 students.</string>
+    <string name="education10_desc">Providing high quality educational services through an educational structure that enhances students opportunities in cooperative education and communication through optimal use of modern technology and community participation.</string>
+<!--    <string name="education11_desc">d</string>-->
+<!--    <string name="education12_desc">d</string>-->
+<!--    <string name="education13_desc">d</string>-->
+<!--    <string name="education14_desc">d</string>-->
+<!--    <string name="education15_desc">d</string>-->
+
+    <string name="hotel1_desc">Triple Tree offers accommodation in Al Hofuf. This property features free WiFi, a supermarket and a car rental service.</string>
+    <string name="hotel9_desc">Located in Hofuf, 8 km from Al Ahsa, Linah Houses Furnished Units provides a shared lounge and free WiFi. Each unit has a fully equipped kitchen with a microwave, a fireplace, and a seating area</string>
+    <string name="hotel10_desc">Al Koot Heritage Hotel is a 4-star property located in Hofuf. Among the facilities of this property are a restaurant and a 24-hour front desk</string>
+    <string name="hotel2_desc">Upscale, contemporary rooms feature free Wi-Fi and flat-screen TVs, as well as kitchenettes and coffee and tea makers. In addition to the above, the suites have separate living and dining rooms</string>
+    <string name="hotel3_desc">Al Ahsa InterContinental is an elegant 5-star hotel located in Al Ahsa in the business and shopping district of Hofuf, ideal for business and leisure travelers.</string>
+    <string name="hotel4_desc">Al-Ahsa Grand Hotel ... a 21st century hotel that raises the offerings of Al-Hofuf, Al-Ahsa Hotel, Conference, Meeting and Wedding Market to the international level. The tower consists of 15 floors</string>
+    <string name="hotel5_desc">Discover a new world of warmth and a vibrant atmosphere at Coral Al Ahsa Hotel</string>
+    <string name="hotel6_desc">Free Wi-Fi and parking are offered in the aparthotel, and there is also a dry cleaning service. All rooms include kitchenettes and LCD TVs</string>
+    <string name="hotel7_desc">Taleen Al Sulaimanyah also offers many facilities to enrich your stay. The hotel provides a family room, coffee shop, safety deposit boxes</string>
+    <string name="hotel8_desc">Garden Plaza Hotel is located in Hofuf and in the center of Al Ahsa. Guests can enjoy the on-site restaurant. Free private parking is available on site</string>
+    <string name="resturant1_desc">An American restaurant in Al-Ahsa that specializes in making steak the way you like it and offers the finest types of burgers and steaks and a suitable place to meet family and friends</string>
+    <string name="resturant2_desc">Al-Ahsa Steak Restaurant is a restaurant specialized in selling the most delicious meat with the presence of a chef specialized in the field</string>
+    <string name="resturant3_desc">Al-Kit Restaurant is one of the most famous restaurants in Al-Ahsa offering fresh seafood, with a suitable place for families and individuals</string>
+    <string name="resturant4_desc">A restaurant that specializes in serving the most delicious Italian dishes and is distinguished by providing fresh ingredients in a modern way. It is considered one of the best Italian restaurants in Al-Ahsa</string>
+    <string name="resturant5_desc">Lava Restaurant in Al-Ahsa is famous for serving a variety of dishes while maintaining the quality of the food served. The design of the place is modern and attractive for visitors to enjoy.</string>
+    <string name="resturant6_desc">One of the most famous cafes in Al-Ahsa serves cold and hot drinks with the most delicious donuts you will eat.</string>
+    <string name="resturant7_desc">Bharat Restaurant in Al-Ahsa offers the most delicious Indian food with a modern design that suits everyone</string>
+    <string name="resturant8_desc">One of the most famous restaurants that serve steak with burger with the seafood order service available in the restaurant</string>
+    <string name="resturant9_desc">One of the oldest restaurants in Al-Ahsa, it is characterized by a variety of delicious dishes and is characterized by a wonderful modern design</string>
+    <string name="resturant10_desc">khaibar Restaurant in Al-Ahsa is characterized by its traditional cuisine with beautiful traditional design</string>
+    <string name="errorWIFI">Please connect to the internet </string>
+
+
+
+
 </resources>
